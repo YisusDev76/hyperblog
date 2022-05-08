@@ -5,3 +5,8 @@ Freddy Vega tiene 32 años y nació en Colombia
 Yisus Parra tiene 41 años y nació en Internet
 
 Mañana nos enfocaremos en su vida laboral.
+
+ADVERTENCIA: ¡Usuario potencialmente peligroso está modificando el proyecto!
+Hola, mi nombre es Brian y... ¿potencialmente peligroso? ¿es porque me llamo "Brian"?.
+En fin, espero que mi amigo Chuche aprecie tanto git como yo lo hice, se sentirá como si fuese
+Doctor Strange (que por cierto, mañana veré la película XD).
