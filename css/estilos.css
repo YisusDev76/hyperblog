@@ -42,6 +42,7 @@ body{
 
 #post{
     padding: 1em;
+    background-color: white;
 }
 #footer{
     background: #777;
